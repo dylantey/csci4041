@@ -1,0 +1,5 @@
+-assumption: maxsize is 1000000
+-take index wanted into i
+-after parsing the array into arr array
+-perform selection sort
+-print
